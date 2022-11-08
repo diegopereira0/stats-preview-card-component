@@ -21,7 +21,7 @@ This is a solution to the [Stats preview card component](https://www.frontendmen
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/single-price-grid-component-d_tC0dQxGX)
-- Live Site URL: [Live Site at Github](https://diegopereira0.github.io/single-price-grid-component/)
+- Live Site URL: [Live Site at Github](https://diegopereira0.github.io/stats-preview-card-component/)
 
 ## My process
 
